@@ -9,7 +9,6 @@ Assessment Requirements
 */
 
 // create a variable to hold your NFT's
-
 const NftData = [];
 
 // this function will take in some values as parameters, create an
@@ -47,3 +46,5 @@ mintNFT("Rohit", "Gold Chain", "Black");
 
 listNFTs();
 getTotalSupply();
+
+console.log("transaction_ID:aman8994assessment");
